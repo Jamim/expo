@@ -5,8 +5,8 @@
   "main": "node_modules/expo/AppEntry.js",
   "dependencies": {
     "expo": "^50",
-    "react": "18.2.0",
-    "react-native": "0.73.6"
+    "react": "19.2.3",
+    "react-native": "0.84-rc.3"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
